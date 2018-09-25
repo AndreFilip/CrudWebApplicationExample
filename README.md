@@ -6,7 +6,8 @@
 
 -run it as a Spring Boot Application
 
--the project uses H2 embedded datababase which can be accessed in http://localhost:8080/h2-console  url. The login should be like above:
+-the project uses H2 embedded database which can be accessed in http://localhost:8080/h2-console url (after correct running of the application). The login should be like above:
+
 Login
 
 Saved Settings: Generic H2 (Embedded) 
