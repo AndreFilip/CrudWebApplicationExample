@@ -1,0 +1,25 @@
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (1, 'addressUnumbered', 'number'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (2, 'addressUnumbered2', 'number2'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (3, 'addressUnumbered3', 'number3'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (4, 'addressUnumbered4', 'number4'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (5, 'addressUnumbered5', 'number5'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (6, 'addressUnumbered6', 'number6'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (7, 'addressUnumbered7', 'number7'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (8, 'addressUnumbered8', 'number8'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (9, 'addressUnumbered9', 'number9'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (10, 'addressUnumbered10', 'number10'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (11, 'addressUnumbered11', 'number11'); 
+INSERT INTO ADDRESS (id, addressUnumbered, number) VALUES (12, 'addressUnumbered12', 'number12'); 
+
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (1, 'firstname', 'lastname', 'companyname' , 'vat', 'irs', 'city', 'country', 1);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (2, 'firstname2', 'lastname2', 'companyname2' , 'vat2', 'irs2', 'city2', 'country2', 2);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (3, 'firstname3', 'lastname3', 'companyname3' , 'vat3', 'irs3', 'city3', 'country3', 3);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (4, 'firstname4', 'lastname4', 'companyname4' , 'vat4', 'irs4', 'city4', 'country4', 4);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (5, 'firstname5', 'lastname5', 'companyname5' , 'vat5', 'irs5', 'city5', 'country5', 5);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (6, 'firstname6', 'lastname6', 'companyname6' , 'vat6', 'irs6', 'city6', 'country6', 6);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (7, 'firstname7', 'lastname7', 'companyname7' , 'vat7', 'irs7', 'city7', 'country7', 7);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (8, 'firstname8', 'lastname8', 'companyname8' , 'vat8', 'irs8', 'city8', 'country8', 8);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (9, 'firstname9', 'lastname9', 'companyname9' , 'vat9', 'irs9', 'city9', 'country9', 9);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (10, 'firstname10', 'lastname10', 'companyname10' , 'vat10', 'irs10', 'city10', 'country10', 10);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (11, 'firstname11', 'lastname11', 'companyname11' , 'vat11', 'irs11', 'city11', 'country11', 11);
+INSERT INTO SUPPLIER (id, firstname, lastname, companyname, vat, irs, city, country, address_id) VALUES (12, 'firstname12', 'lastname12', 'companyname12' , 'vat12', 'irs12', 'city12', 'country12', 12);
