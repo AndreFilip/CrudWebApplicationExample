@@ -1,6 +1,6 @@
 # CrudWebApplicationExample
 
--This is the backend implementation of Public Soft Coding Project and is written by Spring Framework.
+-This is the backend implementation of Public Soft Coding Project and was written in Spring Framework.
 
 -download the project, extract the files and import it into an IDE (Eclipse or Spring Tool Suite preferably) as an existing Maven project 
 
