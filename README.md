@@ -10,12 +10,12 @@
 
 Login
 
-Saved Settings: Generic H2 (Embedded) 
-Setting Name:Generic H2 (Embedded)
-
-JDBC URL: jdbc:h2:mem:testdb 
-Driver Class:org.h2.Driver 
-User Name:sa 
-Password: (empty)
+Saved Settings: Generic H2 (Embedded) <br>
+Setting Name:Generic H2 (Embedded)<br>
+<br>
+JDBC URL: jdbc:h2:mem:testdb <br>
+Driver Class:org.h2.Driver <br>
+User Name:sa <br>
+Password: (empty)<br>
 
 
