@@ -2,11 +2,11 @@
 
 -This is the backend implementation of Public Soft Coding Project and was written in Spring Framework.
 
--download the project, extract the files and import it into an IDE (Eclipse or Spring Tool Suite preferably) as an existing Maven project 
+-Download the project, extract the files and import it into an IDE (Eclipse or Spring Tool Suite preferably) as an existing Maven project 
 
--run it as a Spring Boot Application
+-Run it as a Spring Boot Application
 
--the project uses H2 embedded database which can be accessed in http://localhost:8080/h2-console url (after correct running of the application). The login should be like above:
+-The project uses H2 embedded database which can be accessed in http://localhost:8080/h2-console url (after correct running of the application). The login should be like above:
 
 Login
 
